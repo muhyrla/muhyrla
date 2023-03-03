@@ -1,7 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=muhyrla&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-Hi, I am Mikhail from Omsk. Passionate about data and automating everything.
+Hi, I am Mikhail. Passionate about data and automating everything.
 
 [![Yandex](https://img.shields.io/badge/-muhyrla@gmail.com-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:muhyrla@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/muhyrlagod)
 
