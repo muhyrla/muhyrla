@@ -1,22 +1,18 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhyrla&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
-Hi, I am Mikhail. Passionate about data and automating everything.
-
-[![Yandex](https://img.shields.io/badge/-muhyrla@gmail.com-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:muhyrla@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/muhyrlagod)
+# 💫 About Me:
+🧚‍♂️ Fairy of automation.<br>🙋 Looking for something.<br>📚 I'm learning backend Python.
 
 
-* Love to help people :electric_plug:
-* I do like automation 🤖
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/muhyrla7d4e) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhyrla) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/muhyrla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muhyrlag) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@muhyrla) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhyrla&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=muhyrla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhyrla&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows%2011&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+---
+[![](https://visitcount.itsvg.in/api?id=muhyrla&icon=0&color=10)](https://visitcount.itsvg.in)
 
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
-![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhyrla&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F)
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
